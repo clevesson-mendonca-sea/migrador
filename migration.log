@@ -1,0 +1,6 @@
+2024-12-01 15:14:53,847 [INFO] Iniciando exclusão de pastas, documentos e conteúdos no Liferay.
+2024-12-01 15:14:53,851 [INFO] Buscando todas as pastas do site 35783...
+2024-12-01 15:14:53,860 [INFO] Buscando e excluindo todos os conteúdos estruturados do site 35783...
+2024-12-01 15:18:04,784 [ERROR] Erro ao processar conteúdos: RetryError[<Future at 0x762d96037f20 state=finished raised TimeoutError>]
+2024-12-01 15:18:04,784 [ERROR] Erro ao processar pastas: RetryError[<Future at 0x762d96037500 state=finished raised TimeoutError>]
+2024-12-01 15:18:04,785 [INFO] Exclusão concluída com sucesso.
